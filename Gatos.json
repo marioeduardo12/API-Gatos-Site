@@ -1,0 +1,50 @@
+[
+ {
+   "id": 1,
+   "Origem": "Ir\u00e3",
+   "Nome": "Persa",
+   "Expectativa_de_vida": "15 a 20 anos",
+   "Doencas": "Problemas Card\u00edacos, Problemas respirat\u00f3rios, Problemas dermatol\u00f3gicos",
+   "Preco_estimado": "$500 a $5,000",
+   "img": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3227217:1651844581/Persa-Capa.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=67b1ce4"
+ },
+ {
+   "id": 2,
+   "Origem": "EUA",
+   "Nome": "Maine Coon",
+   "Expectativa_de_vida": "9 a 15 anos",
+   "Doencas": "atrofia muscular espinhal, displasia coxofemoral, complexo gengivite estomatite cr\u00f4nica",
+   "Preco_estimado": "$800 a $2,000",
+   "img": "https://mega.ibxk.com.br/2016/08/23/23184525642446.jpg?ims=610x"
+ },
+ {
+   "id": 3,
+   "Origem": "Turquia",
+   "Nome": "Angor\u00e1",
+   "Expectativa_de_vida": "12 a 18 anos",
+   "Doencas": "ataxia heredit\u00e1ria, cardiomiopatia hietr\u00f3fica",
+   "Preco_estimado": "$500 a $3,000",
+   "img": "https://doglife.doglife.com.br/api/1/blog/doglife/blogFacade/assets/6287dd0471a1ec06b374fb7e/gato-angora-capa.jpg?w=720"
+ },
+ {
+   "id": 4,
+   "Origem": "Calif\u00f3rnia",
+   "Nome": "Ragdoll",
+   "Expectativa_de_vida": "15 a 25 anos",
+   "Doencas": "Obesidade, displasia coxofemoral, doen\u00e7a renal polic\u00edstica",
+   "Preco_estimado": "$800 a $2,500",
+   "img": "https://s2-vidadebicho.glbimg.com/EXfTYoQKMw0L6fEWjCpNHcUgm2k=/0x0:4096x2731/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_fb623579cd474803aedbbbbae014af68/internal_photos/bs/2022/D/v/33SyCATr6XosYwibBXoA/2022-03-10-vidadebicho-ragdoll-gato-flicker-15426348448-2425a534cc-4k.jpeg"
+ },
+ {
+   "id": 5,
+   "Origem": "Sem origem definida",
+   "Nome": "SRD",
+   "Expectativa_de_vida": "Aproximadamente 20 anos",
+   "Doencas": "Problemas renais, cardiomiopatia hipertr\u00f3fica, miopia heredit\u00e1ria",
+   "Preco_estimado": "Gr\u00e1tis a $100",
+   "img": "https://www.whiskas.com.br/sites/g/files/fnmzdf2156/files/inline-images/mitos-e-verdades-sobre-o-gato-vira-latas-01.png"
+ }
+]
+
+
+
