@@ -1,0 +1,13 @@
+.alinhar{
+    display: flex;
+}
+
+li{
+    list-style: none;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+}
+
